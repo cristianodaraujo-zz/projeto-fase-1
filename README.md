@@ -1,27 +1,56 @@
 # Projeto fase 1 #
 ## Code Education ##
 
-> Iniciando .git
+> Criando repositorio local
 
-> Primeiro commit 
+  mkdir public
+  cd public/
+
+> Iniciando/Configurando git
+
+  git init
+
+> Criando README.md
+
+  touch README.md
+
+> Adicionando README.md para ser commitado
+
+  git add README.md
+
+> Commitando README.md ao controle de versão
   
   git commit -m "Iniciando README.md"
 
-> Criando .gitignore
+> Criando e adicionando .gitignore
 
-> Segundo commit
+  touch .gitignore
+  git add .gitignore
+
+> Realizando o segundo commit
 
   git commit -m "Commitando .gitignore"
 
 > Criando index.php
 
+  vim index.php
+
 > Terceiro commit
 
   git commit -m "Criando index.php" 
 
+> Adicionando index.php
+
+  git add index.php
+
 > Quarto commit
 
   git commit -m "Arquivos prontos para o github"
+
+> Configurando repositorio remoto github
+
+  new/repository name/create repository
+  git remote add origin git@github.com:cristianodaraujo/projeto-fase-1.git
 
 > Mandando os arquivos para github
 
