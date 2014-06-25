@@ -56,6 +56,10 @@
 
   git push origin master
 
+> Gerando a primeira versão
+
+  git tag 0.1.0
+
 ---
 
 ### Contato ###
