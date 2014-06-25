@@ -8,7 +8,7 @@
 	<style>
 		* { margin: 0px; padding: 0px; }
 		body { font: bold 14px "Trebuchet MS"; color: #525252; } 
-		h1 {  }
+		h1:hover { text-decoration: underline; color: #333; cursor: pointer; float: left; padding: 5px; }
 	</style>
 </head>
 <body>
