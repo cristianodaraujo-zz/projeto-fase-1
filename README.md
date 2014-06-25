@@ -60,6 +60,35 @@
 
   git tag 0.1.0
 
+> Commitando Versão 0.1.0
+
+  git commit -a -m "Versão do sistema 0.1.0
+
+> Realizando melhorias na index.php
+
+  vim index.php
+
+> Criando index.html e ignorando no .gitignore
+
+  vim index.html
+  vim .gitignore
+
+> Commitando modificação no .gitignore
+
+  git commit -a -m
+
+> Gerando versão de melhoria 
+
+  git tag 0.1.1
+
+> Commitando Versão 0.1.1
+
+  git commit -a -m "Versão do sistema 0.1.1"
+
+> Subindo realeses para o github
+
+  git push origin master --tags 
+  
 ---
 
 ### Contato ###
